@@ -1,5 +1,12 @@
 # Changelog
 
+## v3.9.10 (2020-01-22)
+
+### Bug Fixes and Other Changes
+
+ * Publish to test pypi for testing.
+ * Add automated release to PyPI.
+
 ## v3.1.4 (2019-10-28)
 
 ### Bug fixes and other changes
